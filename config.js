@@ -111,7 +111,7 @@ window.MUNKI = {
   coverageLink: "https://libertymusicpr.coveragebook.com/b/c22ce3208787b3ff",
 
   contact: {
-    bookingsEmail: "bananatreerecords@hotmail.com",
+    bookingsEmail: "bookings@munkimusic.co.uk",
     pressEmail: "",
     phone: "+44 7494 572013",
     location: "Bristol, UK",
