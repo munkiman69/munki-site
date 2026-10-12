@@ -19,7 +19,7 @@ window.MUNKI = {
   // The full-width photo across the top — to change it, replace hero.jpg
   // in this folder (landscape works best).
   photo: "hero.jpg",
-  photoAlt: "Munki in sunglasses and beaded necklaces, leaning against a painted mural, holding a guitar",
+  photoAlt: "Munki sitting cross-legged in front of a bamboo wall, lowering his sunglasses, with bongos and a ukulele beside him",
 
   intro:
     "Bristol-based singer-songwriter and multi-instrumentalist, drawing on folk, funk and afrobeat. Sweet melodies to soothe the brain, strong rhythms to make you dance — live as a solo, duo, four-piece or six-piece.",
