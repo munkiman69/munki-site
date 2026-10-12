@@ -33,7 +33,7 @@ window.MUNKI = {
     label: "Background",
     heading: "From Bristol’s sound systems to stages worldwide",
     paragraphs: [
-      "Munki cut his teeth at the heart of Bristol’s music scene as collaborative co-producer with Bristol heavyweights Hippo Sound System — playing all the instrumentation, co-composing, producing and touring the project. Along the way he’s worked and shared the stage with legends including Laid Blak, Mr Savona, KOG and The Busy Twist, and taken his music around the world.",
+      "Munki cut his teeth at the heart of Bristol’s music scene as collaborative co-producer with Bristol heavyweights Hippo Sound System — laying down much of the instrumentation, co-composing, producing and touring the project. Along the way he’s worked and shared the stage with legends including Laid Blak, Mr Savona, KOG and The Busy Twist, and taken his music around the world.",
       "Now he’s stepped out on his own, with an all-star band whose members have played with the likes of Gentleman’s Dub Club, The Undercover Hippy, The Witch and Cabarets, to name a few.",
     ],
     stats: [
