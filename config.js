@@ -41,7 +41,7 @@ window.MUNKI = {
       { figure: "50,000+",  label: "Spotify streams for Munki’s own EP releases" },
     ],
     groups: [
-      { title: "Worked & shared the stage with",  names: ["Hippo Sound System", "Laid Blak", "Mr Savona", "KOG", "The Busy Twist", "The Future Man", "The Midnight Zu", "Hotsteppas", "Timbali"] },
+      { title: "Worked & shared the stage with",  names: ["Hippo Sound System", "Laid Blak", "Mr Savona", "KOG", "The Busy Twist", "Da Fuchaman", "Hotsteppas", "Timbali"] },
       { title: "An all-star band — members have played with", names: ["Gentleman’s Dub Club", "The Undercover Hippy", "The Witch", "Cabarets"] },
     ],
   },
@@ -74,8 +74,8 @@ window.MUNKI = {
   // Works with an Instagram reel (https://www.instagram.com/reel/XXXXXXXXX/),
   // Vimeo (https://vimeo.com/123456789/abcdef1234) or an unlisted YouTube
   // link (https://youtu.be/XXXXXXXXXXX). Leave "" to hide it.
-  showreel: "https://www.instagram.com/reel/DdyWE7pMnzg/",
-  showreelTitle: "Munki live",
+  showreel: "https://youtu.be/kyJsYZi0P4c",
+  showreelTitle: "EP launch, live at the Jam Jar",
 
   // The main "Listen" button — usually your Spotify or Bandcamp link.
   listenLink: "https://open.spotify.com/artist/47gI45FS4GhTU74HWv5X5f",
