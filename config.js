@@ -21,6 +21,10 @@ window.MUNKI = {
   photo: "hero.jpg",
   photoAlt: "Munki sitting cross-legged in front of a bamboo wall, lowering his sunglasses, with bongos and a ukulele beside him",
 
+  // A second photo near the bottom of the page (above Contact). Set to "" to hide.
+  photo2: "photo2.jpg",
+  photo2Alt: "Munki holding up a pair of small brass hand cymbals, wearing amber beaded necklaces",
+
   intro:
     "Bristol-based singer-songwriter and multi-instrumentalist, drawing on folk, funk and afrobeat. Sweet melodies to soothe the brain, strong rhythms to make you dance — live as a solo, duo, four-piece or six-piece.",
 

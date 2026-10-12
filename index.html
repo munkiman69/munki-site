@@ -103,6 +103,10 @@
       <ul class="links" id="streaming"></ul>
     </section>
 
+    <figure class="closing-photo" id="closing-photo" hidden>
+      <img id="photo2" alt="" width="2000" height="1339" loading="lazy">
+    </figure>
+
     <section class="wrap block" id="contact">
       <h2 class="label">Contact</h2>
       <div class="contact">
@@ -168,6 +172,12 @@
         }
         img.src = c.photo;
         $("hero-photo").hidden = false;
+      }
+
+      if (has(c.photo2)) {
+        $("photo2").src = c.photo2;
+        $("photo2").alt = c.photo2Alt || "";
+        $("closing-photo").hidden = false;
       }
 
       if (has(c.listenLink)) {

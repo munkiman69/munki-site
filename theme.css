@@ -160,3 +160,14 @@ dt { padding-top: .8rem; }
 .hero-quote { max-width: 38rem; }
 .hero-quote blockquote { text-wrap: balance; }
 .section-title, .quotes blockquote, .lu-detail, .book-pitch { text-wrap: balance; }
+
+
+/* Second photo near the bottom: full width, arched top to mirror the hero */
+.closing-photo { margin: clamp(1rem, 4vw, 2rem) 0 0; }
+.closing-photo img {
+  display: block; width: 100%; height: auto; max-height: 92vh;
+  object-fit: cover; object-position: 50% 8%;
+  border-radius: 50% 50% 0 0 / 7% 7% 0 0;
+}
+.closing-photo + .block::before { display: none; }
+.closing-photo + .block { padding-top: clamp(3rem, 7vw, 4.5rem); }
