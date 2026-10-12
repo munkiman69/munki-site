@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: munki
+    runtime: static
+    staticPublishPath: .
+    buildCommand: ""
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
