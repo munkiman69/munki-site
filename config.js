@@ -34,7 +34,7 @@ window.MUNKI = {
     heading: "From Bristol’s sound systems to stages worldwide",
     paragraphs: [
       "Munki cut his teeth at the heart of Bristol’s music scene as collaborative co-producer with Bristol heavyweights Hippo Sound System — laying down much of the instrumentation, co-composing, producing and touring the project. Along the way he’s worked and shared the stage with legends including Laid Blak, Mr Savona, KOG and The Busy Twist, and taken his music around the world.",
-      "Now he’s stepped out on his own, with an all-star band whose members have played with the likes of Bad Manners, Gentleman’s Dub Club, The Undercover Hippy, and W.I.T.C.H and the Cabarats, to name a few.",
+      "Now he’s stepped out on his own, with an all-star band whose members have played with the likes of Bad Manners, Gentleman’s Dub Club, The Undercover Hippy, W.I.T.C.H and The Cabarats, to name a few.",
     ],
     stats: [
       { figure: "300,000+", label: "streams for his Hippo Sound System collaboration" },
@@ -42,7 +42,7 @@ window.MUNKI = {
     ],
     groups: [
       { title: "Worked & shared the stage with",  names: ["Hippo Sound System", "Laid Blak", "Mr Savona", "KOG", "The Busy Twist", "Da Fuchaman", "Hotsteppas", "Timbali"] },
-      { title: "An all-star band — members have played with", names: ["Bad Manners", "Gentleman’s Dub Club", "The Undercover Hippy", "W.I.T.C.H and the Cabarats"] },
+      { title: "An all-star band — members have played with", names: ["Bad Manners", "Gentleman’s Dub Club", "The Undercover Hippy", "W.I.T.C.H", "The Cabarats"] },
     ],
   },
 
