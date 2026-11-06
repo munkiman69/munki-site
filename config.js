@@ -41,7 +41,7 @@ window.MUNKI = {
       { figure: "50,000+",  label: "Spotify streams for Munki’s own EP releases" },
     ],
     groups: [
-      { title: "Worked & shared the stage with",  names: ["Hippo Sound System", "Laid Blak", "Mr Savona", "KOG", "The Busy Twist", "DJ Hiphoppapotamus", "Da Fuchaman", "Hotsteppas", "Timbali"] },
+      { title: "Worked & shared the stage with",  names: ["Hippo Sound System", "DJ Hiphoppapotamus", "Laid Blak", "Mr Savona", "KOG", "The Busy Twist", "Da Fuchaman", "Hotsteppas", "Timbali"] },
       { title: "An all-star band — members have played with", names: ["Bad Manners", "Gentleman’s Dub Club", "The Undercover Hippy", "W.I.T.C.H", "The Cabarats", "Kiko Bun"] },
     ],
   },
