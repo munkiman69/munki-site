@@ -79,11 +79,11 @@ window.MUNKI = {
   showreelTitle: "EP launch, live at the Jam Jar",
 
   // The main "Listen" button — usually your Spotify or Bandcamp link.
-  listenLink: "https://open.spotify.com/artist/47gI45FS4GhTU74HWv5X5f",
+  listenLink: "https://open.spotify.com/album/6dbu9dxTPJe7INTPH0HgK5",
 
   // Every streaming platform you're on. Delete lines you don't use.
   streaming: [
-    { label: "Spotify",       url: "https://open.spotify.com/artist/47gI45FS4GhTU74HWv5X5f" },
+    { label: "Spotify",       url: "https://open.spotify.com/album/6dbu9dxTPJe7INTPH0HgK5" },
     { label: "Apple Music",   url: "" },
     { label: "Bandcamp",      url: "" },
     { label: "SoundCloud",    url: "" },
